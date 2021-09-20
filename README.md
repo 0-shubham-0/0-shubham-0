@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**0-shubham-0/0-shubham-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 👋 Hello!! this is Riean Esteves @Rieesteves
