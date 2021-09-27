@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 
 💞️ I’m looking forwoard to join in collaboration ahead ...
 
-📧 How to reach me : shubhamtalawadekar2002@@gmail.com
+📧 How to reach me : shubhamtalawadekar2002@gmail.com
