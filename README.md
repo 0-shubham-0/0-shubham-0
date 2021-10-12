@@ -1,8 +1,8 @@
-### Hi there 
+### Hey 👋, Welcome to my GitHub 
 
 Here are some ideas to get you started:
 
-👋 Hello!! this is SHubham Talawadekar
+👋 Hello!! this is Shubham Talawadekar
 
 🌱 I’m a SE IT student and currently learning programming languages (mainly java)
 
