@@ -2,9 +2,9 @@
 
 👋 Hello!! This is Shubham Talawadekar
 
-🌱 I’m a SE IT student and currently Java, Unity.
+🌱 I’m a SE IT student and currently learning Java and Unity.
 
-👀 I’m looking forwoard to join in collaboration ahead ...
+👀 I’m looking forwoard to collaborate on many projects ...
 
 📧 How to reach me : shubhamtalawadekar2002@gmail.com
 
