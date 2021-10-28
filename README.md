@@ -16,6 +16,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0-shubham-0&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/0-shubham-0/count.svg" />
+</p>
+
 ### Connect with me:
 
 [<img align="left" alt="Skar_Styles | Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/royal-blue/twitter-xxl.png" />][twitter]
