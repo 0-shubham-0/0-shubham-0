@@ -4,7 +4,7 @@
 
 🌱 I’m a SE IT student and currently learning Java and Unity.
 
-👀 I’m looking forwoard to collaborate on many projects ...
+👀 I’m looking forwoard to collaborate.
 
 📧 How to reach me : shubhamtalawadekar2002@gmail.com
 
