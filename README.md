@@ -2,7 +2,7 @@
 
 👋 Hello!! This is Shubham Talawadekar
 
-🌱 I’m a SE IT student and currently learning Java and Unity.
+🌱 I’m a TE IT student and currently learning Python and WEB-DEV.
 
 👀 I’m looking forwoard to collaborate.
 
