@@ -52,6 +52,8 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
   <img src="https://profile-counter.glitch.me/0-shubham-0/count.svg" />
 </p>
 
+
+
 ### Connect with me:
 
 [<img align="left" alt="Skar_Styles | Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/royal-blue/twitter-xxl.png" />][twitter]
@@ -60,4 +62,4 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 
 [twitter]: https://twitter.com/Skar_Styles
 [instagram]: https://www.instagram.com/shubham.t.7/
-[linkedin]: https://www.linkedin.com/in/shubham-talawadekar-8b6ab5206/
+[linkedin]: https://www.linkedin.com/in/shubham-talawadekar/
