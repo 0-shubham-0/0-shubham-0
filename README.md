@@ -7,7 +7,7 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 - 🔭 I’m currently working on some personal projects.
 - 👯 I’m looking to collaborate on any web development or python projects.
 <!-- - 🌱 I’m currently learning [![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust)](https://www.rust-lang.org)  -->
-- 📫 How to reach me [![Gmail](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:shubhamtalawadekar@gmail.com) [![Linkedin](https://img.shields.io/badge/linked-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/mwlite/in/shubham-talawadekar/) 
+- 📫 How to reach me [![Gmail](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:shubhamtalawadekar@gmail.com) [![Linkedin](https://img.shields.io/badge/linked-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shubham-talawadekar/) 
 <!-- - [![Discord](https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.gg/cF44en2S) -->
 
 ## Technology Stack & Tools
